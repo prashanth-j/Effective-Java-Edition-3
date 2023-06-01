@@ -8,7 +8,7 @@ import java.util.stream.Collectors;
 public class StringGroupByLength {
     public static void main(String[] args) {
         List<String> strings = Arrays.asList("apple", "banana", "pear", "kiwi", "orange");
-        groupByLength(strings);
+        System.out.println(groupByLength(strings));
     }
 
     private static Map<Integer, List<String>> groupByLength(List<String> strings) {
