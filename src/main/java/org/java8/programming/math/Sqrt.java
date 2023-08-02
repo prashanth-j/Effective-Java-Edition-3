@@ -1,4 +1,4 @@
-package org.java8.programming.dsa.math;
+package org.java8.programming.math;
 
 public class Sqrt {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package org.java8.programming.dsa;
+package org.java8.programming.dsa.leetcode;
 
 public class StringPalindrome {
     public static void main(String[] args) {

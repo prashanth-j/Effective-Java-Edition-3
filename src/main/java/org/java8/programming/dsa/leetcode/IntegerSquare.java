@@ -1,4 +1,4 @@
-package org.java8.programming.dsa;
+package org.java8.programming.dsa.leetcode;
 
 import java.util.Arrays;
 import java.util.List;

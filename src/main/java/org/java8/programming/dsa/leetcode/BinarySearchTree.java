@@ -1,4 +1,4 @@
-package org.java8.programming.dsa;
+package org.java8.programming.dsa.leetcode;
 
 public class BinarySearchTree {
     public static void main(String[] args) {

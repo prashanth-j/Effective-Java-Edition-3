@@ -1,4 +1,4 @@
-package org.java8.programming.dsa.table;
+package org.java8.programming.dsa.leetcode.table;
 
 import java.util.HashMap;
 import java.util.Map;
