@@ -1,4 +1,4 @@
-package org.java8.atlassian.assement;
+package org.java8.assesment.assement;
 
 import java.util.ArrayList;
 import java.util.List;

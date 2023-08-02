@@ -2,6 +2,7 @@ package org.java8.atlassian.assement;
 
 import junit.framework.Assert;
 import junit.framework.TestCase;
+import org.java8.assesment.assement.RateLimitAssement;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
