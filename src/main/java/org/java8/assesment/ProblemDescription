@@ -1,0 +1,30 @@
+  -Voting
+
+ /**
+ * Process a list of ballots, and return all candidates sorted in descending order by their total number of points.
+ */
+List<String> getResults(List<Ballot> ballots)
+
+```
+
+every vote has max of 3 votes
+
+order of votes is important -- 1 st vote -- 3point 2nd-- 2point 3r-1 points
+
+getResults(List<Ballot> ballots)
+
+a, b, c --> who we want
+v1,v2.
+--v1 -> a -> 3 point b -2 point c -> 1 point
+--v1 -> b -> 3 point c -2 point a -> 1 point
+
+a - 3 + 1 -> 4
+b -  3 + 2 -> 5
+
+List<b> -- b, a, c
+
+Ballot {
+  vote - candidate +  point
+}
+
+Map<Key,Value> -- Key -- candiate. value - count of votes
